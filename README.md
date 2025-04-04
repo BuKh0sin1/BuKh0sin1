@@ -1,4 +1,4 @@
-<img src="workspace.gif" alt="leptop pic" width="80%" />
+<img src="workspace.gif" alt="leptop pic" width="100%" />
 
 <!--
 **BuKh0sin1/BuKh0sin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
