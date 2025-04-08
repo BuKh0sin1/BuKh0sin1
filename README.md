@@ -1,3 +1,4 @@
+<img src="workspace.gif" alt="leptop picture" width="100%" />
 <h1 align="left">About Me:</h1>
 
 ###
