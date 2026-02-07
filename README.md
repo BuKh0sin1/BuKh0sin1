@@ -1,11 +1,8 @@
 <img src="workspace.gif" alt="leptop picture" width="100%" />
 
 <div align="center">
-  <a href="https://wa.link/cwl86e" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=0bbf41&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
-  </a>
-  <a href="mailto:khanyigina37@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  <a href=""https://beacons.ai/khanyi.gina target="_blank">
+    <img src="https://mma.prnewswire.com/media/2660161/Beacons__Logo.jpg?p=facebook" height="70" alt="beacon logo" />
   </a>
   </div>
   
