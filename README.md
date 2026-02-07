@@ -1,7 +1,7 @@
 <img src="workspace.gif" alt="leptop picture" width="100%" />
 
 <div align="center">
-  <a href="https://beacons.ai/khanyi.gina target="_blank">
+  <a href="https://beacons.ai/khanyi.gina">
     <img src="https://mma.prnewswire.com/media/2660161/Beacons__Logo.jpg?p=facebook" height="70" alt="beacon logo" />
   </a>
   </div>
